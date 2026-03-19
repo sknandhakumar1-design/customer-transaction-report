@@ -90,5 +90,5 @@ jupyter notebook "Customer Transaction Report.ipynb"
 
 ## 👤 Author
 **Nandha Kumar S K**
-- Intern @ DataMites
+- Intern @ Rubixe AI Company
 - GitHub: [@sknandhakumar1-design](https://github.com/sknandhakumar1-design)
